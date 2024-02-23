@@ -1,0 +1,22 @@
+{
+  "name": "vt_npm",
+  "version": "1.0.0",
+  "description": "first npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Lweiting/vt_npm.git"
+  },
+  "keywords": [
+    "vt_npm"
+  ],
+  "author": "Lweiting",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lweiting/vt_npm/issues"
+  },
+  "homepage": "https://github.com/Lweiting/vt_npm#readme"
+}
