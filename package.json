@@ -1,6 +1,6 @@
 {
   "name": "vt_npm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "first npm",
   "main": "index.js",
   "scripts": {
@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/Lweiting/vt_npm/issues"
   },
-  "homepage": "https://github.com/Lweiting/vt_npm#readme"
+  "homepage": "https://github.com/Lweiting/vt_npm#readme",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "tea-oss-number-generator": "^1.0.1"
+  }
 }
