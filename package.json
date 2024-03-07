@@ -1,27 +1,26 @@
 {
-  "name": "screen_tool_wt",
-  "version": "1.0.0",
-  "description": "screen tool",
+  "name": "vt_npm",
+  "version": "1.0.4",
+  "description": "first npm",
   "main": "index.js",
   "scripts": {
     "test": "npm run test"
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/Lweiting/vt_npm.git"
   },
   "keywords": [
-    "screen tool wt"
+    "vt_npm"
   ],
-  "author": "vt",
+  "author": "Lweiting",
   "license": "ISC",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/Lweiting/vt_npm/issues"
   },
-  "homepage": "",
+  "homepage": "https://github.com/Lweiting/vt_npm#readme",
   "dependencies": {
     "axios": "^1.6.7",
-    "tea-oss-number-generator": "^1.0.1",
-    "vt_npm": "^1.0.1"
+    "tea-oss-number-generator": "^1.0.1"
   }
 }
